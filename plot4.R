@@ -1,4 +1,4 @@
-plot2 <- function() {
+plot4 <- function() {
           ## load package
           library(lubridate)
           
